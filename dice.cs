@@ -16,7 +16,7 @@ namespace dice_problem {
             return rolled;
         }
         //I really need to clean up the way I went about showing the simulation and total, it is very messy (but it does the job for now)
-        public int DoSimulation() {
+        public void DoSimulation() {
             int total = 0;
             for (int x = 1; x <= rolls; x++) {
                 int rollednumber = newroll();
@@ -25,7 +25,6 @@ namespace dice_problem {
 
             }
             Console.WriteLine("Total: {0}", total);
-            return total;
         }
     }
 }
