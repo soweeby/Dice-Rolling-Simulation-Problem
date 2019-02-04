@@ -1,0 +1,11 @@
+c:\Users\Roshan\Documents\dice problem\bin\Debug\netcoreapp2.2\dice problem.deps.json
+c:\Users\Roshan\Documents\dice problem\bin\Debug\netcoreapp2.2\dice problem.runtimeconfig.json
+c:\Users\Roshan\Documents\dice problem\bin\Debug\netcoreapp2.2\dice problem.runtimeconfig.dev.json
+c:\Users\Roshan\Documents\dice problem\bin\Debug\netcoreapp2.2\dice problem.dll
+c:\Users\Roshan\Documents\dice problem\bin\Debug\netcoreapp2.2\dice problem.pdb
+c:\Users\Roshan\Documents\dice problem\obj\Debug\netcoreapp2.2\dice problem.csprojAssemblyReference.cache
+c:\Users\Roshan\Documents\dice problem\obj\Debug\netcoreapp2.2\dice problem.csproj.CoreCompileInputs.cache
+c:\Users\Roshan\Documents\dice problem\obj\Debug\netcoreapp2.2\dice problem.AssemblyInfoInputs.cache
+c:\Users\Roshan\Documents\dice problem\obj\Debug\netcoreapp2.2\dice problem.AssemblyInfo.cs
+c:\Users\Roshan\Documents\dice problem\obj\Debug\netcoreapp2.2\dice problem.dll
+c:\Users\Roshan\Documents\dice problem\obj\Debug\netcoreapp2.2\dice problem.pdb
